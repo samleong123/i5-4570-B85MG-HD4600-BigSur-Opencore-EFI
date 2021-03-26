@@ -9,11 +9,12 @@
 | Hardware                           | Status                                                                                                                                                    |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Intel i5-4570                      | Working                                                                                                                                                   |
-| ALC887 with Asus B85MG Motherboard | Working with layout-id 40. (Be sure to choose Line Out for Audio Jack located at back of the Motherboard Never test front audio jack not sure is it working) |
+| ALC887 with Asus B85MG Motherboard | Working with layout-id 40 Be sure to choose Line Out for Audio Jack located at back of the Motherboard Never test front audio jack not sure is it working |
 | Intel Graphics HD4600 (iGPU)       | Working (DRM seems to be not supported)                                                                                                                   |
 | Realtek RTL8111 1Gbps              | Working                                                                                                                                                   |
 | USB Front                          | Working                                                                                                                                                   |
 | USB Back (3.0)                     | Working                                                                                                                                                   |
+| SMBIOS                             | iMac 14,4                                                                                                                                                 |
 
 ### Screenshots
 ![Ethernet](https://raw.githubusercontent.com/samleong123/i5-4570-B85MG-HD4600-BigSur-Opencore-EFI/main/Ethernet.png)
