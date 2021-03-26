@@ -16,3 +16,8 @@
 | USB Back (3.0)                     | Working                                                                                                                                                   |
 
 ### Screenshots
+![Ethernet](https://raw.githubusercontent.com/samleong123/i5-4570-B85MG-HD4600-BigSur-Opencore-EFI/main/Ethernet.png)
+![System Info](https://raw.githubusercontent.com/samleong123/i5-4570-B85MG-HD4600-BigSur-Opencore-EFI/main/System%20Info.png)
+![Youtube](https://raw.githubusercontent.com/samleong123/i5-4570-B85MG-HD4600-BigSur-Opencore-EFI/main/Youtube.png)
+![Netflix](https://raw.githubusercontent.com/samleong123/i5-4570-B85MG-HD4600-BigSur-Opencore-EFI/main/Netflix.png)
+![Sound](https://raw.githubusercontent.com/samleong123/i5-4570-B85MG-HD4600-BigSur-Opencore-EFI/main/Sound.png)
